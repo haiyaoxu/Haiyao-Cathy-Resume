@@ -22,7 +22,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i>Haiyao.Xu@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-github"></i> [github.com/haiyaoxu/](https://github.com/haiyaoxu/)
 - <i class="fa fa-phone"></i> +1 254300 2110
 
 

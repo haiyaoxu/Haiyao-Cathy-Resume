@@ -1,0 +1,114 @@
+---
+title: "Haiyao Xu Resume"
+author: Haiyao Xu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>Haiyao.Xu@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-phone"></i> +1 254300 2110
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Proficient in Word, Power Point,Excel and Adobe PDF, 
+
+- Knowledgeable in Banner system 
+
+- Knowledgeable in PostgreSQL, SQLite
+
+- Knowledgeable in R
+
+- Knowledgeable in Python
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Haiyao Xu {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2021 Sep --Current
+
+
+### Northeastern University
+
+B.A. in Accounting
+Minor in Math
+
+Boston, MA 
+
+2017-2020
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-2001A Python for Data Analysis 
+
+Tufts University
+
+Medford, MA
+
+2021 Sep - 2021 Oct
+
+<!--::: concise-->
+- Deployed a project which detected and analyzed Boston house price related to several hypothesis
+- hypothesis: Covid-19, Number of Public school, Unemployment rate
+<!--:::-->
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model of price analysis for Airbnb, and concluded what would be main factor in my model
+
+Medford, MA
+
+Dec 2021
+
+

@@ -14,7 +14,7 @@ Aside
 
 
 ![Data](data_icon.png){width=30%}
-<!-- ![Data](`r here::here("data_icon.png")`) -->
+
 
 
 
@@ -23,7 +23,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i>Haiyao.Xu@tufts.edu
 - <i class="fa fa-github"></i> [github.com/haiyaoxu/](https://github.com/haiyaoxu/)
-- <i class="fa fa-phone"></i> +1 254300 2110
+- <i class="fa fa-phone"></i> +1 254 300 2110
 
 
 Skills {#skills}
@@ -112,3 +112,24 @@ Medford, MA
 Dec 2021
 
 
+Work Experience {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Northeastern University(Accounting Assistant, Co-op)
+
+Formatted reports, which included historical transactions from Bank of America
+Reconciliated feeds to make sure that department received feeds daily
+Traced the missing feeds and reviewed them monthly
+ 
+Boston, MA
+
+Jul 2018-Dec 2018
+
+### MFS Investment Management(Account payable, Co-op)
+Processed invoices for daily payment
+Inputted and reviewed data into the accounting system (PeopleSoft)
+Prepared account coding of vouchers and submitted supervisor for reviewing 
+Researched outstanding vendor invoice and collected the invoice
+
+Boston, MA
+
+Jan 2020- Jul 2020
